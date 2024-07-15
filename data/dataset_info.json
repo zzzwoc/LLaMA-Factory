@@ -1,0 +1,10 @@
+{
+  "沐雪数据集": {
+    "file_name": "muxue.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "history": "history"
+    }
+  }
+}
