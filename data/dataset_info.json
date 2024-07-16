@@ -6,5 +6,59 @@
       "response": "output",
       "history": "history"
     }
+  },
+  "《斗破苍穹》": {
+    "file_name": "天蚕土豆/《斗破苍穹》.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "《大主宰》": {
+    "file_name": "天蚕土豆/《大主宰》.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "《魔兽剑圣异界纵横》": {
+    "file_name": "天蚕土豆/《魔兽剑圣异界纵横》.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "《万相之王》": {
+    "file_name": "天蚕土豆/《万相之王》.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "《武动乾坤》": {
+    "file_name": "天蚕土豆/《武动乾坤》.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "《元尊》": {
+    "file_name": "天蚕土豆/《元尊》.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "《斗破苍穹前传之药老传奇》": {
+    "file_name": "天蚕土豆/《斗破苍穹前传之药老传奇》.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "test": {
+    "file_name": "test.txt",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "wiki_demo": {
+    "file_name": "wiki_demo.txt",
+    "columns": {
+      "prompt": "text"
+    }
   }
 }
